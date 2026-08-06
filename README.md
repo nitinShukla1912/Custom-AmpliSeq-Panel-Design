@@ -166,9 +166,9 @@ Alr_1	50	2055	Alr_1
 Ddl_1	50	1143	Ddl_1
 ```
 
-### Note: Remember to remove 50 bp from start and end.
+#### Note: Remember to remove 50 bp from start and end.
 
-### Results: Your results will look like this download zip file and explore
+#### Results: Your results will look like this download zip file and explore
 
 <img width="944" height="449" alt="image" src="https://github.com/user-attachments/assets/11d85e9c-ad83-404a-b5c8-d5196698aff4" />
 
