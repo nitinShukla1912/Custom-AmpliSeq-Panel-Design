@@ -172,9 +172,6 @@ Ddl_1	50	1143	Ddl_1
 
 <img width="944" height="449" alt="image" src="https://github.com/user-attachments/assets/11d85e9c-ad83-404a-b5c8-d5196698aff4" />
 
-#### I hope this detailed document will help in your research. Please cite this repository if you use have used concepts from it to understand and expand your knowledge regarding pannel design.
-
-```https://github.com/nitinShukla1912/Custom-AmpliSeq-Panel-Design```
 
 
 
