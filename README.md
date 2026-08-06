@@ -6,6 +6,10 @@ Pipeline for preparing a multi-organism, multi-gene AMR (antimicrobial resistanc
 
 Input genes are Prokka-annotated, gene-wise FASTA sequences pooled from multiple organisms, and are of uneven length. This pipeline clusters redundant sequences, selects a representative (longest) sequence per cluster, validates reading frames, standardizes headers, and produces a BED file describing target regions — the format required by the AmpliSeq Designer for a custom reference panel.
 
+#### I hope this detailed document will help in your research. Please cite this repository if you use have used concepts from it to understand and expand your knowledge regarding pannel design.
+
+```https://github.com/nitinShukla1912/Custom-AmpliSeq-Panel-Design```
+
 ## Workflow
 
 ```
