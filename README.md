@@ -170,8 +170,5 @@ Ddl_1	50	1143	Ddl_1
 
 #### Results: Your results will look like this download zip file and explore
 
-<img width="944" height="449" alt="image" src="https://github.com/user-attachments/assets/11d85e9c-ad83-404a-b5c8-d5196698aff4" />
-
-
 
 
