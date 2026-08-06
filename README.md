@@ -168,7 +168,7 @@ Ddl_1	50	1143	Ddl_1
 
 #### Note: Remember to remove 50 bp from start and end.
 
-#### Results: Your results will look like this download zip file and explore
+#### Results: You can download the results in zip file and explore
 
 
 
