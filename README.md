@@ -166,9 +166,7 @@ Alr_1	50	2055	Alr_1
 Ddl_1	50	1143	Ddl_1
 ```
 
-#### Note: Remember to remove 50 bp from start and end.
-
-#### Results: You can download the results in zip file and explore
-
-#### Cite: https://github.com/nitinShukla1912/Custom-AmpliSeq-Panel-Design
-#### MIT-liscence
+###### Note: Remember to remove 50 bp from start and end.
+###### Results: You can download the results in zip file and explore
+### Cite: https://github.com/nitinShukla1912/Custom-AmpliSeq-Panel-Design
+### MIT-liscence
