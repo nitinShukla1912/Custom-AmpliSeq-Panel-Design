@@ -170,5 +170,5 @@ Ddl_1	50	1143	Ddl_1
 
 #### Results: You can download the results in zip file and explore
 
-
-
+#### Cite: https://github.com/nitinShukla1912/Custom-AmpliSeq-Panel-Design
+#### MIT-liscence
