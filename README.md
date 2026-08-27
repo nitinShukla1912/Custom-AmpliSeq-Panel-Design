@@ -72,11 +72,11 @@ python3 fasta_to_bed.py
 Tab-separated, with **50 bp trimmed from the start and end** of each region before upload:
 
 ```
-AcrAB_TolC_1     50    3126    AcrAB_TolC_1
-AcrAD_TolC_1     50    3063    AcrAD_TolC_1
-AcrEF_TolC_1     50    3063    AcrEF_TolC_1
-Alr_1            50    2055    Alr_1
-Ddl_1            50    1143    Ddl_1
+Gene1_TolC_1     50    3126    Gene1_TolC_1
+Gene2_TolC_1     50    3063    Gene2_TolC_1
+Gene3_TolC_1     50    3063    Gene3_TolC_1
+Gene4_1            50    2055    Gene4_1
+Gene5_1            50    1143    Gene5_1
 ```
 
 > **Note:** Remember to remove the 50 bp padding from both the start and end coordinates before uploading.
@@ -159,11 +159,11 @@ Leave 4.
 
 File.bed (tab separated) example
 ```
-AcrAB_TolC_1	50	3126	AcrAB_TolC_1
-AcrAD_TolC_1	50	3063	AcrAD_TolC_1
-AcrEF_TolC__1	50	3063	AcrEF_TolC__1
-Alr_1	50	2055	Alr_1
-Ddl_1	50	1143	Ddl_1
+Gene1_TolC_1	50	3126	Gene1_TolC_1
+Gene2_TolC_1	50	3063	Gene2_TolC_1
+Gene3_TolC__1	50	3063	Gene3_TolC__1
+Gene4_1	50	2055	Gene4_1
+Gene5_1	50	1143	Gene5_1
 ```
 
 ###### Note: Remember to remove 50 bp from start and end.
